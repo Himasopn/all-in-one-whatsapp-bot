@@ -20,8 +20,8 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Mumbai";
 global.github=process.env.GITHUB|| "https://github.com/uwemdev/all-in-one-whatsapp-bot";
 global.gurl  =process.env.GURL  || "https://api.whatsapp.com/send?phone=917002015750text=Hi%20Uwem%2C";
 global.website=process.env.GURL || "https://uwemdev.com" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://uwemdev.com/storage/home/about-file-1724092734.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "Uwemdev" 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/GpzKsjP/ea2051930160b897477088ccee2379d2.jpg" ; // SET LOGO FOR IMAGE 
+global.caption = process.env.CAPTION || global.caption || "119 asxp" 
 
 
 global.devs = "2348110572387" // Developer Contact
@@ -42,7 +42,7 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to show logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "https://i.ibb.co/w6ss4st/photo-2024-04-19-10-02-19.jpg" // "text" // set Image/video urls here
+global.userImages= process.env.USER_IMAGES || "https://i.ibb.co/GpzKsjP/ea2051930160b897477088ccee2379d2.jpg" // "text" // set Image/video urls here
 global.waPresence= process.env.WAPRESENCE ||  "null" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
